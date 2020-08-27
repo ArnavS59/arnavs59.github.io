@@ -116,7 +116,11 @@ body {
       width: 100%;
       height: 100%;
       z-index: -1;
+<<<<<<< HEAD
       background: rgba(255, 255, 255, 0.8); }
+=======
+      background: rgba(255, 255, 255, 0.6); }
+>>>>>>> 8225ae9e0e12d48f43dffde6a86de7dfe99c4120
 
 .download {
   background-color: rgba(0, 128, 255, 0.99);
